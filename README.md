@@ -1,6 +1,3 @@
-Here is a **clean, professional, ready-to-paste README.md** based on the file you provided.
-You can copy–paste directly into your GitHub repo.
-
 ---
 
 # 📊 Customer Churn Analysis & Prediction
@@ -125,8 +122,6 @@ You can extend the model by:
 * Deploying on AWS / Render / Railway
 
 ---
-
-If you want, I can also generate:
 
 ✅ Badges
 ✅ Requirements.txt
