@@ -44,7 +44,7 @@ This project visualizes:
 ---
 
 ## 🧠 Solution Architecture
-![Solution](https://github.com/Chinni-2005/Customer-Churn-Prediction/blob/589060a1f0d4fce0afeee15490c830d3ece10c31/images/Project%20Interface.png)
+![Solution](https://github.com/Chinni-2005/Customer-Churn-Prediction/blob/589060a1f0d4fce0afeee15490c830d3ece10c31/images/Telco5.JPG)
 
 ---
 
