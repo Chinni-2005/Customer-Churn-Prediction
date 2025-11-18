@@ -95,8 +95,7 @@ Open the link in your browser to test the app.
 
 ## 🖼️ Frontend Preview
 
-![Frontend](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco6.JPG)
-
+![Frontend](https://github.com/Chinni-2005/Customer-Churn-Prediction/blob/589060a1f0d4fce0afeee15490c830d3ece10c31/images/Project%20Interface.png)
 ---
 
 ## 🏁 Final Notes
