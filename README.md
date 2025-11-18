@@ -28,19 +28,7 @@ This project visualizes:
 * Churn segments
 * Customer behavior insights
 
----
 
-## 🎥 Reference Learning Material
-
-### Detailed session on EDA
-
-[![EDA Video](https://user-images.githubusercontent.com/34673684/117579611-49cd5880-b126-11eb-9e2b-ef865c090808.png)](https://www.youtube.com/watch?v=baL7OrGWlxs)
-
-### End-to-end session on EDA, Model Building & Deployment
-
-[![Session Thumbnail](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/CC.JPG)](https://www.youtube.com/watch?v=GVECbcKUio4)
-
----
 
 ## 📁 Repository Structure
 
@@ -56,8 +44,7 @@ This project visualizes:
 ---
 
 ## 🧠 Solution Architecture
-
-![Solution](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco5.JPG)
+![Solution](https://github.com/Chinni-2005/Customer-Churn-Prediction/blob/589060a1f0d4fce0afeee15490c830d3ece10c31/images/Project%20Interface.png)
 
 ---
 
