@@ -1,5 +1,3 @@
----
-
 # 📊 Customer Churn Analysis & Prediction
 
 A complete end-to-end **EDA → Model Building → Model Deployment** project using **Python, Machine Learning & Flask**.
@@ -108,11 +106,3 @@ You can extend the model by:
 * Deploying on AWS / Render / Railway
 
 ---
-
-✅ Badges
-✅ Requirements.txt
-✅ Setup instructions
-✅ Project banner
-✅ Live demo section
-
-Just tell me!
